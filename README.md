@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<a href="https://drive.google.com/file/d/1dJv3NKCw-mXlvf4wlRmcHpNEpClgyjpe/view?usp=sharing"> Here's a walkthrough </a> of implemented required features:
+<a href="https://drive.google.com/file/d/1dJv3NKCw-mXlvf4wlRmcHpNEpClgyjpe/view?usp=sharing"> Here's a walkthrough</a> of implemented required features:
 
 ## Notes
 
