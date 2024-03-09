@@ -2,7 +2,7 @@
 
 Submitted by: **Archie Goli**
 
-This web app: **provides users with 10 flashcards with questions in different domains so they can improve their general knowledge.!**
+This web app: **provides users with 10 flashcards with questions in different domains so they can improve their general knowledge!**
 
 Time spent: **4** hours spent in total
 
