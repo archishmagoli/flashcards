@@ -18,8 +18,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Cards contains images in addition to or in place of text
 - [x] Cards have different visual styles such as color based on their category
+- [ ] Cards contains images in addition to or in place of text
 
 The following **additional** features are implemented:
 
@@ -27,16 +27,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<a href="https://drive.google.com/file/d/1dJv3NKCw-mXlvf4wlRmcHpNEpClgyjpe/view?usp=sharing"> Here's a walkthrough </a> of implemented required features:
 
 ## Notes
 
