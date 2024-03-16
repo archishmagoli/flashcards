@@ -28,11 +28,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<a href="https://drive.google.com/file/d/1dJv3NKCw-mXlvf4wlRmcHpNEpClgyjpe/view?usp=sharing"> Here's a walkthrough</a> of implemented required features.
+<a href="https://drive.google.com/file/d/1BL9RnC57eCmnE0ykqqW4Mrhf7KtN25ij/view?usp=sharing"> Here's a walkthrough</a> of implemented required features.
 
 ## Notes
 
-I learned a lot about state (and concurrent state updation) through this project!
+I learned a lot about state (and concurrent state updation) through this project! I also learned how to create forms, use the fuzzy search algorithm for string searching, and process advanced user input in React.
 
 ## License
 
