@@ -45,6 +45,30 @@
   transform: rotateY(0deg); /* Initial rotation */
 }
 
+.input-default {
+  border: 1px solid #ccc; /* Default border color */
+}
+
+.input-correct {
+  border: 1px solid green; /* Border color for correct guess */
+}
+
+.input-incorrect {
+  border: 1px solid red; /* Border color for incorrect guess */
+}
+
+.rightAnswer {
+  color: green;
+}
+
+.wrongAnswer {
+  color: red;
+}
+
+input[type="text"] {
+  font-size: 1.25vw; /* Adjust the font size as needed */
+}
+
 .flip-card-front, .flip-card-back {
   display: flex;
   align-items: center;
@@ -63,13 +87,6 @@
   transform: rotateY(180deg); /* Flipped state */
 }
 
-.button {
-  margin: 0.5em;
-  background-color: black;
-  font-size: 1vw;
-  color: white;
-  border: 1px solid rgba(255, 255, 255, 0.87);
-}
 
 .color-key {
   display: flex;
@@ -98,6 +115,10 @@
 p {
   margin-top: 0px;
   font-size: 1vw;
+}
+
+#guess {
+  margin-left: 0.5em;
 }
 
 @keyframes logo-spin {

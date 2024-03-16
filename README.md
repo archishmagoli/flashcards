@@ -1,25 +1,26 @@
-# Web Development Project 2 - *General Knowledge Trivia*
+# Web Development Project 2 - *General Knowledge Trivia Flashcards - Part 2!*
 
 Submitted by: **Archie Goli**
 
-This web app: **provides users with 10 flashcards with questions in different domains so they can improve their general knowledge!**
+This web app: **provides users with 10 flashcards with questions in different domains so they can improve their general knowledge - now with new features!**
 
-Time spent: **4** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [x] **A list of card pairs is created**
-- [x] **Clicking on the card shows the corresponding component of the information pair**
-- [x] **Clicking the next button displays a random new card**
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [x] Cards have different visual styles such as color based on their category
-- [ ] Cards contains images in addition to or in place of text
+- [x] A shuffle button is used to randomize the order of the cards
+- [x] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [ ] A counter displays the user's current and longest streak of correct responses
+- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 The following **additional** features are implemented:
 
