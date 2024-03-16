@@ -191,7 +191,7 @@ const Flashcard = () => {
                 className={guess.length === 0 ? 'input-default' : (isCorrect === null ? 'input-default' : (isCorrect ? 'input-correct' : 'input-incorrect'))}
                 placeholder="Example guess.."/>
 
-                <button type="submit" disabled={flipped} className='button'>Submit Guess</button>
+                <button type="submit" disabled={flipped || guess.length === 0} className='button'>Submit Guess</button>
             </form>
             {guess.length === 0 ? <h3></h3> : (isCorrect === null ? <h3></h3> : 
                 (isCorrect ? <h3 className='rightAnswer'>You guessed correctly! The answer is: {allQuestions[index].answer}</h3> : 
