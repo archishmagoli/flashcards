@@ -165,7 +165,7 @@ const Flashcard = () => {
             setIsFlipped(false); // Also re-setting the flipped state!
             return newIndex;
         });
-      }
+    }
       
     return (
         <>
@@ -199,6 +199,7 @@ const Flashcard = () => {
             <button className='button' onClick={previousQuestion}>Previous</button>
             <button className='button' onClick={nextQuestion}>Next</button>
             <button className='button' onClick={shuffle}>Shuffle Cards</button>
+            <p><b>Current Streak: </b></p>
             <br></br>
             <br></br>
         </>
